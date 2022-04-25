@@ -1,2 +1,2 @@
 # Curso_POO
-Ejercicios de poo
+Ejercicios de programación orientada a objetos
